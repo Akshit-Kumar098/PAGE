@@ -1,5 +1,4 @@
 import React from "react";
-import { ChevronLeft } from "lucide-react";
 import image2 from "./assets/image2.png";
 
 const InvoiceDashboard = () => {
@@ -106,9 +105,9 @@ const InvoiceDashboard = () => {
     >
       {/* Header */}
       <div className="flex items-center justify-between px-4 pt-7 pb-6 text-[17px] font-medium">
-        <div className="flex item-center">
+        <div className="flex items-center">
           {" "}
-          <ChevronLeft className="w-6 h-6 text-black" />
+          <i class="ri-arrow-left-s-line text-3xl  "></i>
           Back
         </div>
         <div>
