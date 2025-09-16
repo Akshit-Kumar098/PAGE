@@ -377,7 +377,7 @@ const InvoiceDashboard = () => {
 
         <div className="text-center pb-8">
           <p className="text-gray-700 text-lg font-medium">
-            Spark<span className="text-gray-500">nomy</span>
+            Sparko<span className="text-gray-500">nomy</span>
           </p>
           <p className="text-gray-500 text-[10px]">
             sparking the creator economy
